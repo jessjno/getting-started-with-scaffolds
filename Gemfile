@@ -90,7 +90,7 @@ group :development do
   gem "annotate"
   gem "better_errors"
   gem "binding_of_caller"
-  gem "draft_generators"
+  gem "draft_generators", :github => "firstdraft/draft_generators"
   gem "grade_runner"
   gem "pry-rails"
   gem "rails_db"
